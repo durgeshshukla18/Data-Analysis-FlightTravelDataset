@@ -12,6 +12,10 @@ A data analysis project exploring flight travel patterns, insights, and trends u
 - **Hackathon Report Analysis.docx**  
   A report summarizing the analysis methodology, findings, key visualizations, and insights drawn from the dataset.
 
+  - **Screenshots (PNG files)**  
+Screenshot 2024-06-24 194151.png
+Screenshot 2024-06-24 194142.png
+
 
 
 ---
